@@ -44,33 +44,33 @@
 		321296DF244CAB840008DC93 /* SFBDSDPCMDecoder.mm in Sources */ = {isa = PBXBuildFile; fileRef = 321296DD244CAB840008DC93 /* SFBDSDPCMDecoder.mm */; };
 		321296E0244CAB840008DC93 /* SFBDSDPCMDecoder.h in Headers */ = {isa = PBXBuildFile; fileRef = 321296DE244CAB840008DC93 /* SFBDSDPCMDecoder.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		321388B32881B58900EC5F63 /* dumb.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 32677E28254D11AD0041B063 /* dumb.xcframework */; };
-		321388B42881B58900EC5F63 /* dumb.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 32677E28254D11AD0041B063 /* dumb.xcframework */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		321388B42881B58900EC5F63 /* dumb.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 32677E28254D11AD0041B063 /* dumb.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		321388B52881B58900EC5F63 /* FLAC.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3271423D254F10AA00029BD7 /* FLAC.xcframework */; };
-		321388B62881B58900EC5F63 /* FLAC.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 3271423D254F10AA00029BD7 /* FLAC.xcframework */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		321388B62881B58900EC5F63 /* FLAC.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 3271423D254F10AA00029BD7 /* FLAC.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		321388B72881B58900EC5F63 /* lame.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 328501B7256AA1B6009140DE /* lame.xcframework */; };
-		321388B82881B58900EC5F63 /* lame.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 328501B7256AA1B6009140DE /* lame.xcframework */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		321388B82881B58900EC5F63 /* lame.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 328501B7256AA1B6009140DE /* lame.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		321388B92881B58900EC5F63 /* MAC.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 32677939254C421F0041B063 /* MAC.xcframework */; };
-		321388BA2881B58900EC5F63 /* MAC.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 32677939254C421F0041B063 /* MAC.xcframework */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		321388BA2881B58900EC5F63 /* MAC.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 32677939254C421F0041B063 /* MAC.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		321388BB2881B58900EC5F63 /* mpc.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 32677C9A254CC4410041B063 /* mpc.xcframework */; };
-		321388BC2881B58900EC5F63 /* mpc.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 32677C9A254CC4410041B063 /* mpc.xcframework */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		321388BC2881B58900EC5F63 /* mpc.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 32677C9A254CC4410041B063 /* mpc.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		321388BD2881B58900EC5F63 /* mpg123.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3267793A254C421F0041B063 /* mpg123.xcframework */; };
-		321388BE2881B58900EC5F63 /* mpg123.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 3267793A254C421F0041B063 /* mpg123.xcframework */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		321388BE2881B58900EC5F63 /* mpg123.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 3267793A254C421F0041B063 /* mpg123.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		321388BF2881B58900EC5F63 /* ogg.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 32714B252550430A00029BD7 /* ogg.xcframework */; };
-		321388C02881B58900EC5F63 /* ogg.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 32714B252550430A00029BD7 /* ogg.xcframework */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		321388C02881B58900EC5F63 /* ogg.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 32714B252550430A00029BD7 /* ogg.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		321388C12881B58900EC5F63 /* opus.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 32714B23255042D000029BD7 /* opus.xcframework */; };
-		321388C22881B58900EC5F63 /* opus.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 32714B23255042D000029BD7 /* opus.xcframework */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		321388C22881B58900EC5F63 /* opus.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 32714B23255042D000029BD7 /* opus.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		321388C32881B58900EC5F63 /* sndfile.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 32677BA4254C79260041B063 /* sndfile.xcframework */; };
-		321388C42881B58900EC5F63 /* sndfile.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 32677BA4254C79260041B063 /* sndfile.xcframework */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		321388C42881B58900EC5F63 /* sndfile.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 32677BA4254C79260041B063 /* sndfile.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		321388C52881B58900EC5F63 /* speex.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3271464E254F261C00029BD7 /* speex.xcframework */; };
-		321388C62881B58900EC5F63 /* speex.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 3271464E254F261C00029BD7 /* speex.xcframework */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		321388C62881B58900EC5F63 /* speex.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 3271464E254F261C00029BD7 /* speex.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		321388C72881B58900EC5F63 /* taglib.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 326782F2254E66900041B063 /* taglib.xcframework */; };
-		321388C82881B58A00EC5F63 /* taglib.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 326782F2254E66900041B063 /* taglib.xcframework */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		321388C82881B58A00EC5F63 /* taglib.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 326782F2254E66900041B063 /* taglib.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		321388C92881B58A00EC5F63 /* tta-cpp.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 32673F07274C974700E46A89 /* tta-cpp.xcframework */; };
-		321388CA2881B58A00EC5F63 /* tta-cpp.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 32673F07274C974700E46A89 /* tta-cpp.xcframework */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		321388CA2881B58A00EC5F63 /* tta-cpp.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 32673F07274C974700E46A89 /* tta-cpp.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		321388CB2881B58A00EC5F63 /* vorbis.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3271448C254F1FCD00029BD7 /* vorbis.xcframework */; };
-		321388CC2881B58A00EC5F63 /* vorbis.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 3271448C254F1FCD00029BD7 /* vorbis.xcframework */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		321388CC2881B58A00EC5F63 /* vorbis.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 3271448C254F1FCD00029BD7 /* vorbis.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		321388CD2881B58A00EC5F63 /* wavpack.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3267724B254B6BB80041B063 /* wavpack.xcframework */; };
-		321388CE2881B58A00EC5F63 /* wavpack.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 3267724B254B6BB80041B063 /* wavpack.xcframework */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		321388CE2881B58A00EC5F63 /* wavpack.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 3267724B254B6BB80041B063 /* wavpack.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		3215031325EBD27500714F62 /* SFBAudioFileWrapper.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 3259D16325D987D2005F636F /* SFBAudioFileWrapper.hpp */; };
 		3215031425EBD27B00714F62 /* SFBExtAudioFileWrapper.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 3259D16425D987D2005F636F /* SFBExtAudioFileWrapper.hpp */; };
 		3215031525EBD28400714F62 /* SFBAudioRingBuffer.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 3229C5A025CF5D18002395CD /* SFBAudioRingBuffer.hpp */; };
@@ -1909,10 +1909,13 @@
 		32C212D71091116D00BA2493 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "Apple Development";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Developer ID Application";
 				CODE_SIGN_STYLE = Manual;
 				COMBINE_HIDPI_IMAGES = YES;
 				DEFINES_MODULE = YES;
 				DEVELOPMENT_TEAM = "";
+				"DEVELOPMENT_TEAM[sdk=macosx*]" = B4574YES62;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
@@ -1924,7 +1927,7 @@
 					"@loader_path/Frameworks",
 				);
 				OTHER_CODE_SIGN_FLAGS = "--timestamp";
-				PRODUCT_BUNDLE_IDENTIFIER = org.sbooth.AudioEngine;
+				PRODUCT_BUNDLE_IDENTIFIER = biz.iosxpert.AudioEngine;
 				PRODUCT_NAME = SFBAudioEngine;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
@@ -1934,10 +1937,13 @@
 		32C212D81091116D00BA2493 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "Apple Development";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Developer ID Application";
 				CODE_SIGN_STYLE = Manual;
 				COMBINE_HIDPI_IMAGES = YES;
 				DEFINES_MODULE = YES;
 				DEVELOPMENT_TEAM = "";
+				"DEVELOPMENT_TEAM[sdk=macosx*]" = B4574YES62;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
@@ -1949,7 +1955,7 @@
 					"@loader_path/Frameworks",
 				);
 				OTHER_CODE_SIGN_FLAGS = "--timestamp";
-				PRODUCT_BUNDLE_IDENTIFIER = org.sbooth.AudioEngine;
+				PRODUCT_BUNDLE_IDENTIFIER = biz.iosxpert.AudioEngine;
 				PRODUCT_NAME = SFBAudioEngine;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
