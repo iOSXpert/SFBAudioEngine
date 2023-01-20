@@ -1534,7 +1534,7 @@
 			isa = PBXProject;
 			attributes = {
 				CLASSPREFIX = SFB;
-				LastUpgradeCheck = 1200;
+				LastUpgradeCheck = 1420;
 				ORGANIZATIONNAME = sbooth.org;
 				TargetAttributes = {
 					32B37577288119C80067A4AE = {
