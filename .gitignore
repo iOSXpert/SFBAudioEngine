@@ -2,8 +2,6 @@ docs/
 build/
 archive/
 
-*.xcframework
-
 *.pbxuser
 *.mode1v3
 *.mode2v3
